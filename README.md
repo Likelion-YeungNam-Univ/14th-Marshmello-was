@@ -130,15 +130,11 @@
 
 ## 🏗 Architecture
 
-> 아키텍처 이미지 교체 예정
-
-<!--
 <img
   width="100%"
   alt="품결 백엔드 아키텍처"
-  src="https://github.com/Likelion-YeungNam-Univ/14th-Marshmello-was/blob/master/marshmello-backend-architecture-corrected.png?raw=true"
+  src="https://github.com/user-attachments/assets/a12cbcc4-3b1a-4a99-b074-2c388123fd8d"
 />
--->
 
 품결 백엔드는 **Spring Boot 기반 REST API**로, 기능별 도메인과 외부 시스템 연동을 분리한 구조를 사용합니다.
 
@@ -153,13 +149,9 @@
 
 ## 🗂 ERD
 
-> ERD 이미지가 준비되면 아래 주석의 `ERD_IMAGE_URL`을 GitHub 이미지 URL로 교체하고 주석을 해제해 주세요.
-
-<!--
 <p align="center">
-  <img width="100%" alt="품결 백엔드 ERD" src="ERD_IMAGE_URL" />
+  <img width="100%" alt="품결 백엔드 ERD" src="https://github.com/user-attachments/assets/b7c20130-0630-4a25-9369-bcff505453f6" />
 </p>
--->
 
 ### Entity별 핵심 기능
 
